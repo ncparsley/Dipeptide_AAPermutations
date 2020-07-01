@@ -23,7 +23,7 @@ amino_acids = {
     'W' : 186.07931,        #Tryptophan
     'Y' : 163.06333,        #Tyrosine
     'V' :  99.06841,        #Valine
-    'a' :  85.12,           #a-aminoisobutryic acid
+    'a' :  85.12,           #a-aminoisobutyric acid
     'b' :  99.14,           #Isovaline
     'c' :  71.09,           #b-alanine
 }
